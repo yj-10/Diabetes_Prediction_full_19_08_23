@@ -1,0 +1,134 @@
+:root {
+  --bg-color: #03e9f4;
+  --black-color: #000;
+  --white-color: #fff;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+/* .Wrapper .Wrapper_row { */
+  /* width:; */
+
+/* }/ */
+/* .row_container{
+  display: flex;
+  justify-content: space-around;
+}
+.Wrapper .Row_col .Wrapper_Content button {
+  display: block;
+  margin-top: 30px ; */
+  /* padding: 10px 35px; */
+  /* font-family: "Times New Roman", Times, serif; */
+  /* color: var(--white-color); */
+  /* border-radius: 25px; */
+  /* border: none; */
+  /* background-color: var(--bg-color); */
+  /* padding: 10px 30px;
+  background-color: #ffffff;
+  color: #03e9f4;
+  font-weight: bold;
+  border: 1px solid;
+  border-radius: 5px;
+  letter-spacing: 4px;
+  overflow: hidden;
+  transition: 0.5s;
+  cursor: pointer;
+  font-size: 20px;
+  position: relative;
+}
+.Wrapper .Row_col .Wrapper_Content button:hover {
+  background: #03e9f4;
+  color: #ffffff;
+  box-shadow: 0 0 5px #03e9f4, 0 0 10px #03e9f4, 0 0 15px #03e9f4,
+    0 0 20px #03e9f4;
+}
+
+.Wrapper .Wrapper_row .Wrapper_title h1 {
+  transform: capitalize;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400;
+  font-size: 23px;
+  color: var(--black-color);
+  text-align: center;
+  text-decoration: none;
+
+  animation-duration: 2s;
+  animation-name: anime; */
+  /* animation-iteration-count: infinite; */
+  /* animation-timing-function: ease-in-out;
+
+  transition: all linear 3s;
+}
+.Marquee_container {
+  width: 100%;
+  padding: 10px 0px;
+  background-color: #03e9f4;
+}
+.Marquee_container marquee {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-transform: uppercase;
+  font-size: 24px;
+} */
+
+/* .Wrapper_sec_Container {
+  display: block;
+  border: 1px solid;
+  padding: 10px 0px;
+  margin-top: 125px;
+  position: relative;
+  overflow: hidden;
+} */
+
+/* .Row_col {
+  animation-duration: 2s;
+  animation-name: anime_one; */
+  /* animation-iteration-count: infinite; */
+  /* animation-timing-function: ease-in-out;
+  transition: all 0.3s linear;
+} */
+
+/* .wrpper_table {
+  display: grid;
+  place-items: center;
+  margin-top: 20px;
+}
+@keyframes anime_one {
+  0% {
+    transform: Scale(0);
+    opacity: 0;
+  }
+
+  100% {
+    transform: Scale(1);
+  }
+}
+
+.Result_div .Reault_Row {
+  display: block;
+  position: relative;
+}
+.Result_div .Result_Row article h3 {
+  font-family: "Times New Roman", Times, serif; */
+  /* font-size: medium; */
+  /* text-align: start;
+  font-size: 34px;
+  margin-block-start: 0em !important;
+  margin-block-end: 0em !important;
+}
+.Result_div .Result_Row article h1 {
+  font-size: 54px;
+  margin: 0px;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  text-align: start;
+} */
